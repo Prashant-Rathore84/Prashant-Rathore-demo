@@ -1,2 +1,3 @@
-# Prashant-Rathore-demo
-This is my first git repository
+# Prashant Rathore-demo
+This is my first Git Repository
+Author- Prashant Rathore
